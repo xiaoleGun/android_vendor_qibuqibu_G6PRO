@@ -111,7 +111,6 @@ PRODUCT_COPY_FILES += \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/hw/audio.primary.mt6580.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.mt6580.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/hw/audio.r_submix.mt6580.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.r_submix.mt6580.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/hw/audio.usb.mt6580.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.usb.mt6580.so \
-    vendor/qibuqibu/G6PRO/proprietary/vendor/lib/hw/gatekeeper.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.default.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/hw/gralloc.mt6580.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.mt6580.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/hw/hwcomposer.mt6580.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/hwcomposer.mt6580.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/hw/libSoftGatekeeper.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/libSoftGatekeeper.so \
