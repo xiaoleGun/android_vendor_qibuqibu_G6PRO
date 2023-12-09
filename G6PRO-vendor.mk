@@ -70,9 +70,11 @@ PRODUCT_COPY_FILES += \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/fuelgauged_init.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/fuelgauged_init.rc \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/gsm0710muxd.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/gsm0710muxd.rc \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/hostapd.android.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/hostapd.android.rc \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/init.bt_drv.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.bt_drv.rc \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/init.cccifsd.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.cccifsd.rc \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/init.cccimdinit.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.cccimdinit.rc \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/init.cccirpcd.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.cccirpcd.rc \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/init.fmradio_drv.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.fmradio_drv.rc \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/init.thermal.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.thermal.rc \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/init.thermal_manager.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.thermal_manager.rc \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/init.wlan_drv.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.wlan_drv.rc \
