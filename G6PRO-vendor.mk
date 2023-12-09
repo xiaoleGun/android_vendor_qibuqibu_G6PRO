@@ -109,6 +109,7 @@ PRODUCT_COPY_FILES += \
     vendor/qibuqibu/G6PRO/proprietary/vendor/firmware/soc_fm_v1_patch.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/soc_fm_v1_patch.bin \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/egl/egl.cfg:$(TARGET_COPY_OUT_VENDOR)/lib/egl/egl.cfg \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/egl/libGLES_mali.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libGLES_mali.so \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/hw/android.hardware.camera.provider@2.4-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.camera.provider@2.4-impl-mediatek.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/hw/audio.primary.mt6580.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.mt6580.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/hw/audio.r_submix.mt6580.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.r_submix.mt6580.so \
