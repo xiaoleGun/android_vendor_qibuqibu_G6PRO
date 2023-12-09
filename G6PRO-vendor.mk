@@ -52,6 +52,7 @@ PRODUCT_COPY_FILES += \
     vendor/qibuqibu/G6PRO/proprietary/vendor/bin/muxreport:$(TARGET_COPY_OUT_VENDOR)/bin/muxreport \
     vendor/qibuqibu/G6PRO/proprietary/vendor/bin/netdagent:$(TARGET_COPY_OUT_VENDOR)/bin/netdagent \
     vendor/qibuqibu/G6PRO/proprietary/vendor/bin/nvram_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/nvram_daemon \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/bin/spm_loader:$(TARGET_COPY_OUT_VENDOR)/bin/spm_loader \
     vendor/qibuqibu/G6PRO/proprietary/vendor/bin/thermal:$(TARGET_COPY_OUT_VENDOR)/bin/thermal \
     vendor/qibuqibu/G6PRO/proprietary/vendor/bin/thermal_manager:$(TARGET_COPY_OUT_VENDOR)/bin/thermal_manager \
     vendor/qibuqibu/G6PRO/proprietary/vendor/bin/wifi2agps:$(TARGET_COPY_OUT_VENDOR)/bin/wifi2agps \
@@ -86,6 +87,7 @@ PRODUCT_COPY_FILES += \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/nvram_daemon.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/nvram_daemon.rc \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/rild.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/rild.rc \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/rilproxy.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/rilproxy.rc \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/spm_script.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/spm_script.rc \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/vendor.mediatek.hardware.pq@2.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.mediatek.hardware.pq@2.0-service.rc \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/wifi2agps.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/wifi2agps.rc \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/init/wifimac.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/wifimac.rc \
