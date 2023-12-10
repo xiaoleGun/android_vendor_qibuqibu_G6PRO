@@ -53,6 +53,7 @@ PRODUCT_COPY_FILES += \
     vendor/qibuqibu/G6PRO/proprietary/vendor/bin/netdagent:$(TARGET_COPY_OUT_VENDOR)/bin/netdagent \
     vendor/qibuqibu/G6PRO/proprietary/vendor/bin/nvram_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/nvram_daemon \
     vendor/qibuqibu/G6PRO/proprietary/vendor/bin/spm_loader:$(TARGET_COPY_OUT_VENDOR)/bin/spm_loader \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/bin/stp_dump3:$(TARGET_COPY_OUT_VENDOR)/bin/stp_dump3 \
     vendor/qibuqibu/G6PRO/proprietary/vendor/bin/thermal:$(TARGET_COPY_OUT_VENDOR)/bin/thermal \
     vendor/qibuqibu/G6PRO/proprietary/vendor/bin/thermal_manager:$(TARGET_COPY_OUT_VENDOR)/bin/thermal_manager \
     vendor/qibuqibu/G6PRO/proprietary/vendor/bin/wifi2agps:$(TARGET_COPY_OUT_VENDOR)/bin/wifi2agps \
