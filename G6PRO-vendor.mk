@@ -10,6 +10,9 @@ PRODUCT_COPY_FILES += \
     vendor/qibuqibu/G6PRO/proprietary/bin/kpoc_charger:$(TARGET_COPY_OUT_SYSTEM)/bin/kpoc_charger \
     vendor/qibuqibu/G6PRO/proprietary/etc/init/ged_srv.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/ged_srv.rc \
     vendor/qibuqibu/G6PRO/proprietary/etc/init/kpoc_charger.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/kpoc_charger.rc \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/lib/android.hardware.audio.common@2.0-util-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.common@2.0-util-v27.so \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/lib/android.hardware.audio.common@2.0-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.common@2.0-v27.so \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/lib/android.hardware.audio@2.0-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio@2.0-v27.so \
     vendor/qibuqibu/G6PRO/proprietary/lib/hw/keystore.default.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/keystore.default.so \
     vendor/qibuqibu/G6PRO/proprietary/lib/libMiraVision_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libMiraVision_jni.so \
     vendor/qibuqibu/G6PRO/proprietary/lib/libaudiocompensationfilter.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaudiocompensationfilter.so \
@@ -128,6 +131,7 @@ PRODUCT_COPY_FILES += \
     vendor/qibuqibu/G6PRO/proprietary/vendor/firmware/soc_fm_v1_patch.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/soc_fm_v1_patch.bin \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/egl/egl.cfg:$(TARGET_COPY_OUT_VENDOR)/lib/egl/egl.cfg \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/egl/libGLES_mali.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libGLES_mali.so \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/lib/hw/android.hardware.audio.effect@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.audio.effect@2.0-impl.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/hw/android.hardware.audio@2.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.audio@2.0-impl-mediatek.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/hw/android.hardware.camera.provider@2.4-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.camera.provider@2.4-impl-mediatek.so \
