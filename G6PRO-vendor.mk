@@ -30,6 +30,7 @@ PRODUCT_COPY_FILES += \
     vendor/qibuqibu/G6PRO/proprietary/lib/libgralloc_extra_sys.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libgralloc_extra_sys.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/libhidltransport-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhidltransport-v27.so \
     vendor/qibuqibu/G6PRO/proprietary/lib/libhwm_mtk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libhwm_mtk.so \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/lib/liblogwrap-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblogwrap-v27.so \
     vendor/qibuqibu/G6PRO/proprietary/lib/libminiui.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libminiui.so \
     vendor/qibuqibu/G6PRO/proprietary/lib/libmtkbluetooth_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmtkbluetooth_jni.so \
     vendor/qibuqibu/G6PRO/proprietary/lib/libnvram_mtk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libnvram_mtk.so \
