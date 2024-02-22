@@ -13,6 +13,8 @@ PRODUCT_COPY_FILES += \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/android.hardware.audio.common@2.0-util-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.common@2.0-util-v27.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/android.hardware.audio.common@2.0-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.common@2.0-v27.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/android.hardware.audio@2.0-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio@2.0-v27.so \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/lib/android.hardware.wifi@1.0-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.wifi@1.0-v27.so \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/lib/android.hardware.wifi@1.1-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.wifi@1.1-v27.so \
     vendor/qibuqibu/G6PRO/proprietary/lib/hw/keystore.default.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/keystore.default.so \
     vendor/qibuqibu/G6PRO/proprietary/lib/libMiraVision_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libMiraVision_jni.so \
     vendor/qibuqibu/G6PRO/proprietary/lib/libaudiocompensationfilter.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaudiocompensationfilter.so \
