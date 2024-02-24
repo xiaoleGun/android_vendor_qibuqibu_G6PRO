@@ -1,5 +1,6 @@
 
-# load wlan driver after wmt_chrdev_wifi.ko
-on property:wmt_chrdev_wifi.ko=1
+# load wifi driver after wmt_loader finish
+on property:vendor.connsys.driver.ready=yes
+  insmod /vendor/lib/modules/wmt_chrdev_wifi.ko
   insmod /vendor/lib/modules/wlan_drv.ko
-  setprop wlan_drv.ko 1
+  start wlan_assistant

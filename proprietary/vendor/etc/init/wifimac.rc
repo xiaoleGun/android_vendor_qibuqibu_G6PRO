@@ -1,7 +1,0 @@
-on property:service.nvram_init=Ready
-	start wifimac
-
-service wifimac /vendor/bin/wifimac
-    class main
-    disabled
-    oneshot
