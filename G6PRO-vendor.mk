@@ -175,6 +175,7 @@ PRODUCT_COPY_FILES += \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/libPQjni.so:$(TARGET_COPY_OUT_VENDOR)/lib/libPQjni.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/libSwJpgCodec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSwJpgCodec.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/libacdk.so:$(TARGET_COPY_OUT_VENDOR)/lib/libacdk.so \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/lib/libaedv.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaedv.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/libaudio_param_parser-vnd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudio_param_parser-vnd.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/libaudiocompensationfilter_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudiocompensationfilter_vendor.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/libaudiocomponentengine_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudiocomponentengine_vendor.so \
@@ -251,6 +252,7 @@ PRODUCT_COPY_FILES += \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/libmp4dec_sa.ca7.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmp4dec_sa.ca7.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/libmp4dec_sb.ca7.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmp4dec_sb.ca7.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/libmp4enc_xa.ca7.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmp4enc_xa.ca7.so \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/lib/libmrdumpv.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmrdumpv.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/libmsbc_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmsbc_mtk.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/libmtcloader.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtcloader.so \
     vendor/qibuqibu/G6PRO/proprietary/vendor/lib/libmtk_drvb.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtk_drvb.so \
