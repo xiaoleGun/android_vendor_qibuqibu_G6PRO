@@ -111,6 +111,7 @@ PRODUCT_COPY_FILES += \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/virtual-spn-conf-by-efpnn.xml:$(TARGET_COPY_OUT_VENDOR)/etc/virtual-spn-conf-by-efpnn.xml \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/virtual-spn-conf-by-efspn.xml:$(TARGET_COPY_OUT_VENDOR)/etc/virtual-spn-conf-by-efspn.xml \
     vendor/qibuqibu/G6PRO/proprietary/vendor/etc/virtual-spn-conf-by-imsi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/virtual-spn-conf-by-imsi.xml \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/firmware/BT_FW.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/BT_FW.cfg \
     vendor/qibuqibu/G6PRO/proprietary/vendor/firmware/ROMv2_lm_patch_1_0_hdr.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/ROMv2_lm_patch_1_0_hdr.bin \
     vendor/qibuqibu/G6PRO/proprietary/vendor/firmware/ROMv2_lm_patch_1_1_hdr.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/ROMv2_lm_patch_1_1_hdr.bin \
     vendor/qibuqibu/G6PRO/proprietary/vendor/firmware/WIFI_RAM_CODE_6580:$(TARGET_COPY_OUT_VENDOR)/firmware/WIFI_RAM_CODE_6580 \
