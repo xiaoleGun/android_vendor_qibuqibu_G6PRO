@@ -18,7 +18,7 @@ PRODUCT_COPY_FILES += \
     vendor/qibuqibu/G6PRO/proprietary/lib/hw/keystore.default.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/keystore.default.so \
     vendor/qibuqibu/G6PRO/proprietary/lib/libMiraVision_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libMiraVision_jni.so \
     vendor/qibuqibu/G6PRO/proprietary/lib/libaudiocompensationfilter.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaudiocompensationfilter.so \
-    vendor/qibuqibu/G6PRO/proprietary/lib/libaudiocomponentengine.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaudiocomponentengine.so \
+    vendor/qibuqibu/G6PRO/proprietary/vendor/lib/libaudiocomponentengine.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudiocomponentengine.so \
     vendor/qibuqibu/G6PRO/proprietary/lib/libaudiocustparam.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaudiocustparam.so \
     vendor/qibuqibu/G6PRO/proprietary/lib/libaudiodcrflt.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaudiodcrflt.so \
     vendor/qibuqibu/G6PRO/proprietary/lib/libaudiopolicycustomextensions.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaudiopolicycustomextensions.so \
